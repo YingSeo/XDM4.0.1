@@ -173,7 +173,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/L
   end
   })
 
-  AddButton(Tab4o, {
+  AddButton(Tab5o, {
      Name = "Vxeze",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/VxezeHubHopBoss/refs/heads/main/SkidConCacBaM"))()
